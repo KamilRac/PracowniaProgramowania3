@@ -1,0 +1,9 @@
+Name
+Surname
+Bank account number 
+Address
+Dateofthelatesttransfer
+
+Transfer
+Withdraw
+Insert
