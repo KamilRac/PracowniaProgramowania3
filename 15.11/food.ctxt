@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=food
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment2.params=newName
+comment2.target=void\ setName(java.lang.String)
+comment3.params=
+comment3.target=boolean\ getIsVege()
+comment4.params=newIsVege
+comment4.target=void\ setIsVege(boolean)
+numComments=5

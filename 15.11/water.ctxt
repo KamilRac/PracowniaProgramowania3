@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=water
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment2.params=newName
+comment2.target=void\ setName(java.lang.String)
+comment3.params=
+comment3.target=int\ getMineralAmount()
+comment4.params=newMineralAmount
+comment4.target=void\ setMineralAmount(int)
+comment5.params=
+comment5.target=boolean\ getIsCarbonated()
+comment6.params=newIsCarbonated
+comment6.target=void\ setIsCarbonated(boolean)
+numComments=7
