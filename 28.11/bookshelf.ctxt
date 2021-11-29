@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=bookshelf
+comment1.params=model
+comment1.target=bookshelf(java.lang.String)
+comment2.params=model
+comment2.target=void\ setModel(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getModel()
+comment4.params=
+comment4.target=java.util.ArrayList\ showcase()
+comment5.params=
+comment5.target=void\ showcaseX()
+comment6.params=
+comment6.target=int\ howManyBooks()
+comment7.params=bookNew
+comment7.target=void\ addBooks(book)
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9

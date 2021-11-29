@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=chapter
+comment1.params=title\ startingPage\ pages
+comment1.target=chapter(java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=title
+comment3.target=void\ setTitle(java.lang.String)
+comment4.params=pages
+comment4.target=void\ setPages(int)
+comment5.params=
+comment5.target=java.lang.String\ getTitle()
+comment6.params=
+comment6.target=int\ getPages()
+comment7.params=startingPage
+comment7.target=void\ setStartingPage(int)
+comment8.params=
+comment8.target=int\ getStartingPage()
+numComments=9
