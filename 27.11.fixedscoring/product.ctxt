@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=product
+comment1.params=value\ name\ producer
+comment1.target=product(double,\ java.lang.String,\ java.lang.String)
+comment2.params=name
+comment2.target=void\ setName(java.lang.String)
+comment3.params=availableMoney
+comment3.target=void\ setAvailableMoney(double)
+comment4.params=producer
+comment4.target=void\ setProducer(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getName()
+comment6.params=
+comment6.target=double\ getValue()
+comment7.params=
+comment7.target=java.lang.String\ getProducer()
+comment8.params=
+comment8.target=void\ pack()
+comment9.params=
+comment9.target=void\ unpack()
+numComments=10
