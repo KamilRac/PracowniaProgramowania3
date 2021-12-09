@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=book
+comment1.params=title\ author\ pb\ yearOfP\ writer
+comment1.target=book(java.lang.String,\ java.lang.String,\ publisher,\ int,\ writer)
+comment2.params=
+comment2.target=java.lang.String\ getTitle()
+comment3.params=
+comment3.target=java.lang.String\ getAuthor()
+comment4.params=author
+comment4.target=void\ setAuthor(java.lang.String)
+comment5.params=title
+comment5.target=void\ setTitle(java.lang.String)
+comment6.params=yearOfP
+comment6.target=void\ setYearOfP(int)
+comment7.params=
+comment7.target=int\ getYearOfP()
+comment8.params=
+comment8.target=void\ display()
+comment9.params=args
+comment9.target=void\ main(java.lang.String[])
+numComments=10

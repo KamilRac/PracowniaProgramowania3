@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=audiobook
+comment1.params=title\ author\ publisher\ writer\ yearOfP\ minutes\ seconds
+comment1.target=audiobook(java.lang.String,\ java.lang.String,\ publisher,\ writer,\ int,\ int,\ int)
+comment2.params=
+comment2.target=int\ getMinutes()
+comment3.params=minutes
+comment3.target=void\ setMinutes(int)
+comment4.params=
+comment4.target=int\ getSeconds()
+comment5.params=seconds
+comment5.target=void\ setSeconds(int)
+comment6.params=
+comment6.target=void\ display()
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8
